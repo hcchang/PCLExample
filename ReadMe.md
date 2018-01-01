@@ -11,33 +11,31 @@ http://pointclouds.org/documentation/
 
 目前的框架
 
-ch1 點雲的存取相關範例 
+ch1 點雲的存取相關範例和可視化
 
 ch2 裝置的銜接
 
-ch3 點雲的可視化
+ch3 kdtree範例
 
-ch4 kdtree範例
+ch4 octree範例
 
-ch5 octree範例
+ch5 點雲的濾波
 
-ch6 點雲的濾波
+ch6 點雲的關鍵點
 
-ch7 點雲的關鍵點
+ch7 點雲的特徵點
 
-ch8 點雲的特徵點
+ch8 點雲的配準
 
-ch9 點雲的配準
+ch9 采樣一致性的算法
 
-ch10 采樣一致性的算法
+ch10 點雲的分割
 
-ch11 點雲的分割
+ch11 點雲曲面的重建
 
-ch12 點雲曲面的重建
+ch12 點雲的機器學習與物件辨識
 
-ch13 點雲的機器學習與物件辨識
-
-ch14 其他(KinFu, Linemod, and etc...)
+ch13 其他(KinFu, Linemod, and etc...)
 
 
 
